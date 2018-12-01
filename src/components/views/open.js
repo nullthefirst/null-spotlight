@@ -5,7 +5,7 @@ export default class Open extends Component {
     return(
       <div>
         <a
-          href="https://github.com/Usheninte/github-highlights"
+          href="https://github.com/Usheninte/null-spotlight"
           target="_blank"
           rel="noopener noreferrer"
         >
