@@ -8,7 +8,6 @@ export default class Head extends Component {
         <p>November 26, 2018</p>
 
         <hr />
-        <hr />
       </div>
     );
   }
