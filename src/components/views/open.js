@@ -11,6 +11,7 @@ export default class Open extends Component {
         >
           <h4>Open Source Code <i class="fab fa-github"></i></h4>
         </a>
+        <hr />
       </div>
     );
   }
