@@ -6,8 +6,8 @@ export default class Seven extends Component {
       <div className="card">
         <a href="https://poetrique.github.io/" 
           target="_blank"
-          rel="noopener noreferrer" alt="#"><h4>Poetrique Online <i class="em em-link"></i></h4></a>
-        <p>Poetrique is a creative arts brand, that focuses on creating unique user experiences and interactions for the web. We are the bridge between technology and art. We work with world-class technology to produce amazing results.</p>
+          rel="noopener noreferrer" alt="#"><h4>enim neque <i class="em em-link"></i></h4></a>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum integer enim neque volutpat ac tincidunt vitae semper.</p>
       </div>
     )
   }

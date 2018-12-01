@@ -6,8 +6,8 @@ export default class Six extends Component {
       <div className="card">
         <a href="https://poetrique.github.io" 
           target="_blank"
-          rel="noopener noreferrer" alt="#"><h4>AfroLumia <i class="em em-link"></i></h4></a>
-        <p>AfroLumia is a creative arts platform that actively supports innovative lifestyles. Think digital bohemians, think technologically innovative young people. Youth is a thing of the mind.</p>
+          rel="noopener noreferrer" alt="#"><h4>dolore magna <i class="em em-link"></i></h4></a>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Odio aenean sed adipiscing diam donec adipiscing.</p>
       </div>
     )
   }
