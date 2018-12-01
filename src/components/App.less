@@ -23,9 +23,19 @@ h4, a:link, a:hover, a:visited {
   padding: 0.5em 2em;
 }
 
+.message {
+  color: @silver;
+  margin: 1em 16em;
+  padding: 0.5em 2em;
+}
+
 // Mobile View
 @media all and (max-width: 1200px) {
   .card {
+    margin: 1em 2em;
+    padding: 0.5em 1em;
+  }
+  .message {
     margin: 1em 2em;
     padding: 0.5em 1em;
   }
@@ -33,6 +43,10 @@ h4, a:link, a:hover, a:visited {
 
 @media all and (max-width: 600px) {
   .card {
+    margin: 0.5em 0.2em;
+    padding: 0.5em 1em;
+  }
+  .message {
     margin: 0.5em 0.2em;
     padding: 0.5em 1em;
   }

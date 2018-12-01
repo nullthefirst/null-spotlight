@@ -18,14 +18,27 @@ a:visited {
   margin: 1em 16em;
   padding: 0.5em 2em;
 }
+.message {
+  color: #f0f0f0;
+  margin: 1em 16em;
+  padding: 0.5em 2em;
+}
 @media all and (max-width: 1200px) {
   .card {
+    margin: 1em 2em;
+    padding: 0.5em 1em;
+  }
+  .message {
     margin: 1em 2em;
     padding: 0.5em 1em;
   }
 }
 @media all and (max-width: 600px) {
   .card {
+    margin: 0.5em 0.2em;
+    padding: 0.5em 1em;
+  }
+  .message {
     margin: 0.5em 0.2em;
     padding: 0.5em 1em;
   }
