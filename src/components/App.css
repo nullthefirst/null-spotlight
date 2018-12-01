@@ -23,6 +23,12 @@ a:visited {
   margin: 1em 16em;
   padding: 0.5em 2em;
 }
+.social {
+  color: #31acce;
+  margin: 0.5em 1em;
+  padding: 0.2em 0.5em;
+  background-color: #232425;
+}
 @media all and (max-width: 1200px) {
   .card {
     margin: 1em 2em;
@@ -31,6 +37,10 @@ a:visited {
   .message {
     margin: 1em 2em;
     padding: 0.5em 1em;
+  }
+  .social {
+    margin: 0.5em;
+    padding: 0.1em;
   }
 }
 @media all and (max-width: 600px) {
@@ -41,6 +51,10 @@ a:visited {
   .message {
     margin: 0.5em 0.2em;
     padding: 0.5em 1em;
+  }
+  .social {
+    margin: 0.2em;
+    padding: 0.5em;
   }
 }
 .react {
