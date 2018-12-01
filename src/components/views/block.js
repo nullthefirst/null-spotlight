@@ -1,27 +1,18 @@
 import React, { Component } from 'react';
 
 import One from './git/one';
+import Two from './git/two';
+import Three from './git/three';
+import Four from './git/four';
 
 export default class Block extends Component {
   render() {
     return(
       <div>
         <One />
-
-        <a href="https://usheninte.xyz/" alt="https://usheninte.xyz/"><h4>usheninte.xyz <i class="em em-link"></i></h4></a>
-        <p>A personal project. This is a personal portfolio <b>Single Page Application</b>. It contains my skillset, work experience proof in the form of real-world projects, and a fully functioning contact form.</p>
-
-        <hr />
-
-        <a href="https://leadcityfashion.com.ng/" alt="https://leadcityfashion.com.ng/"><h4>Lead City Fashion & Lifestyle Academy <i class="em em-link"></i></h4></a>
-        <p>This institution of Fashion and Lifestyle is upcoming, and promising to prove great. This academy boasts of seasoned professionals, world-class machinery and equipment, and a touch with inspiring and motivating future leaders like no other.</p>
-
-        <hr />
-          
-        <a href="https://dsc-app.lcuofficial.com.ng/" alt="https://dsc-app.lcuofficial.com.ng/"><h4>Developer Student Club LCU <i class="em em-link"></i></h4></a>
-        <p>The DSC is a Google Developers program, aimed at empowering students in <b>Sub-Saharan Africa</b>, India and Indonesia with Mobile and Web Development skills. Other paradigms of <b>Software Development</b> are addressed. This is essentially a grass roots program.</p>
-
-        <hr />
+        <Two />
+        <Three />
+        <Four />
 
         <a href="https://lcu-jamcitylive-fest18.netlify.com/" alt="
         https://lcu-jamcitylive-fest18.netlify.com/"><h4>JamCityLive LCU Festival of Music & Culture <i class="em em-link"></i></h4></a>

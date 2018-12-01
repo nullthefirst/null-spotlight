@@ -15,19 +15,19 @@ a:visited {
 .card {
   color: #232425;
   background-color: #f0f0f0;
-  margin: 1em 16em;
-  padding: 0.5em 2em;
+  margin: 1em 16em 1em 16em;
+  padding: 0.5em 2em 0.5em 2em;
 }
 /* Mobile View */
 @media all and (max-width: 1200px) {
   .card {
-    margin: 1em 2em;
-    padding: 0.5em 1em;
+    margin: 1em 2em 1em 2em;
+    padding: 0.5em 1em 0.5em 1em;
   }
 }
 @media all and (max-width: 600px) {
   .card {
     margin: 0.5em 0.2em;
-    padding: 0.5em 1em;
+    padding: 0.5em 1em 0.5em 1em;
   }
 }
