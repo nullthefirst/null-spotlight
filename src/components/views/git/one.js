@@ -7,7 +7,7 @@ export default class One extends Component {
         <a href="https://poetrique.github.io" 
           target="_blank"
           rel="noopener noreferrer" alt="#"><h4>elementum integer <i class="em em-link"></i></h4></a>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore <b>habitant morbi</b> magna aliqua. Vel elit scelerisque mauris pellentesque pulvinar pellentesque tristique. In dictum non consectetur a erat.</p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore habitant morbi magna aliqua. Vel elit scelerisque mauris pellentesque pulvinar pellentesque tristique. In dictum non consectetur a erat.</p>
       </div>
     )
   }

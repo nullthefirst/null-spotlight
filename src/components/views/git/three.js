@@ -6,8 +6,8 @@ export default class Three extends Component {
       <div className="card">
         <a href="https://poetrique.github.io" 
           target="_blank"
-          rel="noopener noreferrer" alt="#"><h4>Lead City Fashion & Lifestyle Academy <i class="em em-link"></i></h4></a>
-        <p>This institution of Fashion and Lifestyle is upcoming, and promising to prove great. This academy boasts of seasoned professionals, world-class machinery and equipment, and a touch with inspiring and motivating future leaders like no other.</p>
+          rel="noopener noreferrer" alt="#"><h4>quis viverra <i class="em em-link"></i></h4></a>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Non arcu risus quis varius quam quisque id diam.</p>
       </div>
     )
   }
