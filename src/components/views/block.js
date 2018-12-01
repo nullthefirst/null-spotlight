@@ -1,13 +1,12 @@
 import React, { Component } from 'react';
 
-import One from './one';
+import One from './git/one';
 
 export default class Block extends Component {
   render() {
     return(
       <div>
         <One />
-        <hr />
 
         <a href="https://usheninte.xyz/" alt="https://usheninte.xyz/"><h4>usheninte.xyz <i class="em em-link"></i></h4></a>
         <p>A personal project. This is a personal portfolio <b>Single Page Application</b>. It contains my skillset, work experience proof in the form of real-world projects, and a fully functioning contact form.</p>
