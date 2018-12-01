@@ -4,6 +4,7 @@ import './components/App.css';
 import Head from './components/views/head';
 import Block from './components/views/block';
 import Footer from './components/views/footer';
+import Note from './components/views/note';
 
 class App extends Component {
   render() {
@@ -12,6 +13,7 @@ class App extends Component {
         <Head />
         <Block />
         <Footer />
+        <Note />
       </div>
     );
   }

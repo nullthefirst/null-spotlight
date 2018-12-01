@@ -22,16 +22,35 @@ h4, a:link, a:hover, a:visited {
   margin: 1em 16em;
   padding: 0.5em 2em;
 }
-/* Mobile View */
+
+// Mobile View
 @media all and (max-width: 1200px) {
   .card {
     margin: 1em 2em;
     padding: 0.5em 1em;
   }
 }
+
 @media all and (max-width: 600px) {
   .card {
     margin: 0.5em 0.2em;
     padding: 0.5em 1em;
+  }
+}
+
+// React Spin
+
+.react {
+  width: 40%;
+  height: auto;
+  animation: react-spin infinite 20s linear;
+}
+
+@keyframes react-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
   }
 }
