@@ -48,7 +48,7 @@ export default class Block extends Component {
         <hr />
         <hr />
 
-        <h4>nullthefirst  2018</h4> 
+        <h4>nullthefirst <i class="fas fa-code"></i> 2018</h4> 
       </div>
     );
   }

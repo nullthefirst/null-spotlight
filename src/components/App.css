@@ -1,8 +1,10 @@
 body {
   margin: 3em;
-  color: #61dafb;
   background: #232425;
   text-align: center;
+}
+p {
+  color: #f0f0f0;
 }
 h3 {
   color: #f0f0f0;
