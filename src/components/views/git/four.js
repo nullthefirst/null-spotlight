@@ -6,8 +6,8 @@ export default class Four extends Component {
       <div className="card">
         <a href="https://poetrique.github.io" 
           target="_blank"
-          rel="noopener noreferrer" alt="#"><h4>Developer Student Club LCU <i class="em em-link"></i></h4></a>
-        <p>The DSC is a Google Developers program, aimed at empowering students in <b>Sub-Saharan Africa</b>, India and Indonesia with Mobile and Web Development skills. Other paradigms of <b>Software Development</b> are addressed. This is essentially a grass roots program.</p>
+          rel="noopener noreferrer" alt="#"><h4>pretium fusce <i class="em em-link"></i></h4></a>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Condimentum vitae sapien pellentesque habitant morbi.</p>
       </div>
     )
   }
