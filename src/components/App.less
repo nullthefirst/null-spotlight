@@ -15,3 +15,23 @@ p, h1, h3 {
 h4, a:link, a:hover, a:visited {
   color: @blue;
 }
+
+.card {
+  color: @gray;
+  background-color: @silver;
+  margin: 0 16em 1em 16em;
+  padding: 0.5em 2em 0.5em 2em;
+}
+/* Mobile View */
+@media all and (max-width: 1200px) {
+  .card {
+    margin: 0 2em 1em 2em;
+    padding: 0.5em 1em 0.5em 1em;
+  }
+}
+@media all and (max-width: 600px) {
+  .card {
+    margin: 0 2em 1em 2em;
+    padding: 0.5em 1em 0.5em 1em;
+  }
+}
