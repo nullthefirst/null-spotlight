@@ -4,6 +4,7 @@ import One from './git/one';
 import Two from './git/two';
 import Three from './git/three';
 import Four from './git/four';
+import Five from './git/five';
 
 export default class Block extends Component {
   render() {
@@ -13,10 +14,7 @@ export default class Block extends Component {
         <Two />
         <Three />
         <Four />
-
-        <a href="https://lcu-jamcitylive-fest18.netlify.com/" alt="
-        https://lcu-jamcitylive-fest18.netlify.com/"><h4>JamCityLive LCU Festival of Music & Culture <i class="em em-link"></i></h4></a>
-        <p>This was a weekend of amazement. Paintballing tournaments, beautiful food and a vibrant atmosphere. JamCityLive is an initiative that simply encourages the concept <b>“Learn by Doing”</b>. JamCityLive is all about educating young people. Educating in the sense that it is all about providing students with a platform to practice what they really want to become in the near future.</p>
+        <Five />
 
         <hr />
 
