@@ -3,12 +3,12 @@ body {
   background: #232425;
   text-align: center;
 }
-p {
-  color: #f0f0f0;
-}
+p,
+h1,
 h3 {
   color: #f0f0f0;
 }
+h4,
 a:link,
 a:hover,
 a:visited {
