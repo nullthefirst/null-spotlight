@@ -29,15 +29,28 @@ h4, a:link, a:hover, a:visited {
   padding: 0.5em 2em;
 }
 
+.social {
+  color: @blue;
+  margin: 0.5em 1em;
+  padding: 0.2em 0.5em;
+  background-color: @gray;
+}
+
 // Mobile View
 @media all and (max-width: 1200px) {
   .card {
     margin: 1em 2em;
     padding: 0.5em 1em;
   }
+
   .message {
     margin: 1em 2em;
     padding: 0.5em 1em;
+  }
+
+  .social {
+    margin: 0.5em;
+    padding: 0.1em;
   }
 }
 
@@ -46,9 +59,15 @@ h4, a:link, a:hover, a:visited {
     margin: 0.5em 0.2em;
     padding: 0.5em 1em;
   }
+
   .message {
     margin: 0.5em 0.2em;
     padding: 0.5em 1em;
+  }
+
+  .social {
+    margin: 0.2em;
+    padding: 0.5em;
   }
 }
 
