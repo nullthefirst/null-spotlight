@@ -8,6 +8,7 @@ import Five from './git/five';
 import Six from './git/six';
 import Seven from './git/seven';
 
+import About from './about';
 import Open from './open';
 
 export default class Block extends Component {
@@ -17,6 +18,7 @@ export default class Block extends Component {
         <One />
         <Two />
         <Three />
+        <About />
         <Four />
         <Five />
         <Six />
