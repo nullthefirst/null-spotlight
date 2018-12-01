@@ -6,8 +6,8 @@ export default class Two extends Component {
       <div className="card">
         <a href="https://usheninte.xyz/" 
           target="_blank"
-          rel="noopener noreferrer" alt="https://usheninte.xyz/"><h4>usheninte.xyz <i class="em em-link"></i></h4></a>
-        <p>A personal project. This is a personal portfolio <b>Single Page Application</b>. It contains my skillset, work experience proof in the form of real-world projects, and a fully functioning contact form.</p>
+          rel="noopener noreferrer" alt="https://usheninte.xyz/"><h4>lacus laoreet <i class="em em-link"></i></h4></a>
+        <p>Leo vel orci porta non pulvinar neque laoreet suspendisse. Luctus accumsan tortor posuere ac ut consequat. Venenatis tellus in metus vulputate eu. Vel fringilla est ullamcorper eget nulla facilisi. Lectus vestibulum mattis ullamcorper velit sed.</p>
       </div>
     )
   }
