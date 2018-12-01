@@ -8,6 +8,8 @@ import Five from './git/five';
 import Six from './git/six';
 import Seven from './git/seven';
 
+import Open from './open';
+
 export default class Block extends Component {
   render() {
     return(
@@ -21,6 +23,7 @@ export default class Block extends Component {
         <Seven />
         <hr />
         <hr />
+        <Open />
       </div>
     );
   }
