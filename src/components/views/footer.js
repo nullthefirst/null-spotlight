@@ -1,10 +1,7 @@
 import React, { Component } from 'react';
 
-import '../App.css';
-
 const footerStyle = {
   textAlign: "center",
-  color: "#fff",
   marginTop: "4em"
 }
 
@@ -17,7 +14,13 @@ export default class Footer extends Component {
   render() {
     return(
       <div style={footerStyle}>
-        <h5>nullthefirst <i style={blueBold} class="fas fa-code"></i> 2018</h5> 
+        <a
+          href="https://github.com/Usheninte"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <h5>nullthefirst <i style={blueBold} class="fas fa-code"></i> 2018</h5> 
+        </a>
       </div>
     );
   }
