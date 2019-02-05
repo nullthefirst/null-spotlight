@@ -18,7 +18,6 @@ export default class Block extends Component {
         <One />
         <Two />
         <Three />
-        <hr />
         <About />
         <hr />
         <Four />
