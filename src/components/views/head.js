@@ -5,7 +5,6 @@ export default class Head extends Component {
     return(
       <div>
         <h1>Project Highlights Page</h1>
-        <hr />
       </div>
     );
   }
