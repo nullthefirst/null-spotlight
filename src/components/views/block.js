@@ -26,7 +26,6 @@ export default class Block extends Component {
         <Six />
         <Seven />
         <hr />
-        <hr />
         <Open />
       </div>
     );
