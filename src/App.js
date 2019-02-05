@@ -14,7 +14,7 @@ class App extends Component {
         <Head />
         <Block />
         <Social />
-        <Footer />
+        {/* <Footer /> */}
         <Note />
       </div>
     );
